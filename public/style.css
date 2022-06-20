@@ -43,7 +43,7 @@ section.chat__section{
     flex-direction: column;
     overflow-y: auto;
     padding-top: 40px;
-    background-color: rgb(255, 239, 173);
+    background-color: rgb(255, 241, 173);
 }
 
 textarea {
