@@ -15,3 +15,6 @@ Client send message logic in client.js
 Receive message on server and broadcast to all clients
 
 Receive message on client and display it. scrollBottom etc...
+
+// Run the app using this command
+ > npm run dev
